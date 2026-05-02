@@ -1,6 +1,6 @@
 # 🔍 ProofLens AI — Multimodal Forensic Evidence Analyzer
 
-**ProofLens AI** is an AI tool built for the **#AISeekho2026** program. It uses **Google Gemini 2.0 Flash** to analyze images and text claims to detect risks, misinformation, and safety hazards for the Pakistani context.
+**ProofLens AI** is an AI tool built for the **#AISeekho2026** program. It uses **Google Gemini 2.5 Flash** to analyze images and text claims to detect risks, misinformation, and safety hazards for the Pakistani context.
 
 ## 🥇 Hackathon Features
 - **Multimodal Intelligence:** Analyzes visual (screenshots/photos) and textual (pasted messages) evidence.
@@ -8,7 +8,7 @@
 - **Local Context:** Identifies local scams (e.g., JazzCash/EasyPaisa fraud) and physical hazards (e.g., hazardous electrical wiring).
 
 ## 🚀 Technology Stack
-- **AI Engine:** Google Gemini 2.0 Flash
+- **AI Engine:** Google Gemini 2.5 Flash
 - **Framework:** Streamlit
 - **Deployment:** Containerized with **Docker**, designed for **Google Cloud Run**.
 
